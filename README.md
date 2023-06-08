@@ -1,7 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Harsha K</h1>
 <h3 align="center">An aspiring Data Engineer from Inida</h3>
-<img align="right" alt="coding" width="400" src="https://in.pinterest.com/pin/web3-simplified-in-2023--476044623127192504">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshakdv&label=Profile%20views&color=0e75b6&style=flat" alt="harshakdv" /> </p>
 
@@ -25,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshakdv&show_icons=true&locale=en" alt="harshakdv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshakdv&" alt="harshakdv" /></p>
+
